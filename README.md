@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm a Master's student in Computer Science with a growing focus on Cybersecurity.
 
-<!--
-**Astremesterx/Astremesterx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring:
+- 🔐 Cybersecurity fundamentals (network security, system security, cryptography)
+- 🛡️ Ethical hacking and security practices
+- 🌐 Secure system design and vulnerability awareness
 
-Here are some ideas to get you started:
+I have a strong foundation in:
+- Data Structures & Algorithms
+- Operating Systems, DBMS, and Computer Networks
+- Python and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach is practical — I focus on understanding how systems work, how they break, and how to secure them.
+
+🔧 Tech Stack:
+Python | Git | Linux | Networking Basics
+
+📌 Current Focus:
+- Building a solid cybersecurity foundation
+- Learning real-world security concepts and tools
+- Strengthening system-level understanding
+
+Always learning, always improving.
